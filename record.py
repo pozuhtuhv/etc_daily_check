@@ -16,6 +16,7 @@ def log_activity_to_json():
     else:
         data = {}
 
+    ########### 기록 수정 영역 
     # 당일 활동 데이터가 이미 있는지 확인하고 새로운 데이터 추가
     if today in data:
         # 당일 새로운 기록을 추가할 경우
