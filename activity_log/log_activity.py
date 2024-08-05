@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 # JSON 파일 경로 설정
-json_file = 'json_record/activity_log.json'
+json_file = 'activity_log/json_record/activity_log.json'
 
 def log_activity_to_json():
     # 오늘 날짜 형식 설정

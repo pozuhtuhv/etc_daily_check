@@ -22,7 +22,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Run Activity Logger
-      run: python log_activity.py
+      run: python activity_log/log_activity.py
 
     - name: Check for Changes
       run: |
