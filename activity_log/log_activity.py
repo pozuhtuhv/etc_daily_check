@@ -30,7 +30,7 @@ def log_activity_to_json():
         data[today] = {
             "entry_1": {
                 "record": "Daily_Check",
-                "notes": "활동기록 코드 만들기"
+                "notes": "GitHub Actions 수정"
             }
         }
 
