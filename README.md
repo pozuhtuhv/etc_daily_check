@@ -8,3 +8,5 @@ Overview
 Why the commit worked
 - 트랜드를 한번이라도 봤다
 - 하루중 한번이라도 VScode를 켜보았다
+
+### 뭔가 비효율적이라 삭제 
